@@ -3,8 +3,7 @@
 
 Aller dans phpmyadmin créer une base de donnée sous le nom WacCraft
 
-Telecharger la base de donnée WacCraft.sql requis pour que le projet fonctionne 
-Il se trouve à la racine du projet , importer la dans phpmyadmin
+La base de donnée WacCraft.sql est fourni sur le repo , il faudrai l'importer sur phpmyadmin
 
 Créer un fichier database.yml à l'intérieur du dossier config
     
