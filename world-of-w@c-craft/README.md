@@ -29,3 +29,5 @@ test:
 production:
   <<: *default
 ```
+
+Pour démarrer le projet aller dans le dossier world-of-w@c-craft et taper dans le terminal : `rails server`
